@@ -11,7 +11,7 @@
 				"relativePath" : "AudioFiles.json"
 			},
 			{
-				"fileType" : "addBlockJobs",
+				"fileType" : "addOrReplaceBlockJobs",
 				"index" : 0,
 				"relativePath" : "jobblocks.json"
 			}
