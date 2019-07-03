@@ -7,10 +7,12 @@
 		"jsonFiles" : [
 			{
 				"fileType" : "addOrReplaceAudio",
+				"index" : 0,
 				"relativePath" : "AudioFiles.json"
 			},
 			{
 				"fileType" : "addBlockJobs",
+				"index" : 0,
 				"relativePath" : "jobblocks.json"
 			}
 		],
