@@ -1,0 +1,18 @@
+[
+	{
+		"blockType" : "stove",
+		"cooldown" : 10,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 4,
+		"npcType" : "pipliz.cook"
+		"onCraftedAudio" : "cooking"
+	},
+	{
+		"blockType" : "oven",
+		"cooldown" : 8.3,
+		"jobType" : "craftingblockrotatedlit",
+		"maxCraftsPerHaul" : 3,
+		"npcType" : "pipliz.baker"
+		"onCraftedAudio" : "cooking"
+	}
+]

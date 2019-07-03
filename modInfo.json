@@ -1,0 +1,21 @@
+[
+	{
+		"compatibleversions" : [
+			"0.7.0"
+		],
+		"enabled" : true,
+		"jsonFiles" : [
+			{
+				"fileType" : "addOrReplaceAudio",
+				"relativePath" : "AudioFiles.json"
+			},
+			{
+				"fileType" : "addBlockJobs",
+				"relativePath" : "jobblocks.json"
+			}
+		],
+		"marksgamemodded" : false,
+		"name" : "sternenpirat.sternenpirataudio",
+		"version" : "0.7.0"
+	}
+]

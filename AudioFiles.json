@@ -1,0 +1,12 @@
+[
+   {
+		"clipCollectionName" : "cooking",
+		"fileList" : [
+			{
+				"audioGroup" : "Effects",
+				"path" : "./cooking.ogg"
+				"volume" : 0.8
+			}
+		]
+	}
+]
